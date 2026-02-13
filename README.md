@@ -13,17 +13,13 @@ The workflow includes SQL data cleaning and exploratory analysis, and an interac
 - SQL — data cleaning & preprocessing
 - SQL — exploratory analysis
 - GitHub Pages — dashboard hosting
-- 
-📁 Structure
-/data
-/notebooks
-/sql
-/dashboard
 
 📈 Key Findings
 - A measurable gender pay gap exists in several departments
 - Gaps widen at higher job levels
-- Performance ratings do not fully explain salary difference
+- 15% of companies have achieved gender pay parity
+- Proposed interventions can reduce time to pay parity by 43 years
+
 
 👤 Author
 Lucas
